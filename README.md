@@ -1,8 +1,8 @@
 ### README
 
 
-{% include_relative posts/L1.md %}
+{% include_relative docs/posts/L1.md %}
 
-{% include_relative posts/L2.md %}
+{% include_relative docs/posts/L2.md %}
 
-{% include_relative posts/L3.md %}
+{% include_relative docs/posts/L3.md %}
