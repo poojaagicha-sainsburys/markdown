@@ -1,4 +1,4 @@
-## C2 <img src="../images/full-star.png" width="23px"/>
+## C2 ![full-star](../images/full-star.png)
 # Solution Design
 [Next Level](docs/posts/l2-c3-solution-design-link.md) |
 **Applying Design Principles**<br/>
