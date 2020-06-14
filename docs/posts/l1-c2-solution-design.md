@@ -1,6 +1,6 @@
 ## C2 <img src="../images/full-star.png" width="23px"/>
 # Solution Design
-[Next Level](docs/posts/l2-c3-solution-design.md) |
+[Next Level](docs/posts/l2-c3-solution-design-link.md) |
 **Applying Design Principles**<br/>
 Is learning to architect low complexity solutions in a single team under the guidance of other more experienced team members.
 

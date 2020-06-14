@@ -1,0 +1,1 @@
+{% include_relative docs/posts/l1-c2-solution-design.md %}
