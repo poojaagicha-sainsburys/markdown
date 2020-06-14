@@ -1,6 +1,6 @@
 # Top markdown
-{% include_relative posts/L1.md %}
+{% include_relative posts/l1-c2-solution-design.md %}
 
-{% include_relative posts/L2.md %}
+{% include_relative posts/l2-c3-solution-design.md %}
 
-{% include_relative posts/L3.md %}
+{% include_relative posts/l3-c3-solution-design.md %}
