@@ -1,1 +1,1 @@
-{% include_relative docs/posts/l2-c3-solution-design.md %}
+{% include_relative l2-c3-solution-design.md %}
